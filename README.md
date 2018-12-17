@@ -8,5 +8,10 @@ The code can be modified to control any simple device using PID.
 The Python code outputs the controller's output on a graph.
 
 Required Libraries:
+
 PYTHON : pyserial, numpy, matplotlib, drawnow
+
 ARDUINO: PID_v1, max6675
+
+
+Also included is an example output from Python

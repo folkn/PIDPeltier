@@ -1,5 +1,6 @@
 # PIDPeltier
-PID Controller using the Arduino and numPy
+PID Controller using the Arduino and numPy.
+Written as a project for a basic Control Systems course
 
 Outputs a PWM signal, which can be filtered to a DC voltage that is sent to the Peltier device.
 The Arduino code processes the PID constants and outputs the results.
